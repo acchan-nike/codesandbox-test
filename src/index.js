@@ -116,7 +116,7 @@
 /**
  * mapやfilterを使った配列の処理
  */
-const nameArr = ["acchan", "nike", "atusi.kaze"];
+// const nameArr = ["acchan", "nike", "atusi.kaze"];
 // nameArr.map((name) => console.log(name));
 // nameArr.map((name, index) => console.log(`${index + 1}番目の名前は${name}です。`));
 
